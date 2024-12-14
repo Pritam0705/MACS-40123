@@ -8,7 +8,7 @@ ITR2:
 ITR3:  
 ITR4:  
 
-Google Colab Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)][https://colab.research.google.com/drive/1YBy1VNF1MnoWa_TAHplQ8o0kX7d0784z?usp=sharing]
+Google Colab Link: [![Open In Colab](https://colab.research.google.com/drive/1YBy1VNF1MnoWa_TAHplQ8o0kX7d0784z?usp=sharing)][https://colab.research.google.com/drive/1YBy1VNF1MnoWa_TAHplQ8o0kX7d0784z?usp=sharing]
 
 ## Data
 Scraped debunked misinformation data from  the prominent Indian fact-checking platform- Boomlive. Boomlive is a member of the International Fact
