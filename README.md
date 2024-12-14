@@ -51,5 +51,10 @@ BERTopic involves the following steps:
 
 ![image](https://github.com/user-attachments/assets/aab77b6e-6bbe-4e0e-9493-fadde5ad2d5e)
 
+![image](https://github.com/user-attachments/assets/c1d547d0-3b63-47d1-b03f-ce8123c5357d)
+
+![image](https://github.com/user-attachments/assets/45975cb6-7c4a-4f15-a2df-89ebbccc5adb)
+
+
 
 
