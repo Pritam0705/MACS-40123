@@ -3,10 +3,10 @@
 This Repository contains the preliminary analysis of the misinformation data.    
 The structure of the repository is as follows:  
 This folder contains the pdf file containing summaries of the recent three relevant academic articles, the results of the method used, and the social, cultural, and behavioral implications of the findings.  
-ITR1:  
-ITR2:  
-ITR3:  
-ITR4:  
+ITR1: Frequent itemsets and Association rules  
+ITR2: Clustering and Dimension Reduction  
+ITR3: Singular Value Decomposition and LDA  
+ITR4: Embeddings and Dynamic Topic Modeling  
 
 Google Colab Link: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YBy1VNF1MnoWa_TAHplQ8o0kX7d0784z?usp=sharing)
 
@@ -45,6 +45,11 @@ BERTopic involves the following steps:
 **Dimensionality Reduction:** The embeddings are reduced in dimensionality using UMAP.  
 **Clustering:** Density-based clustering algorithm such as HDBSCAN are applied to form clusters from the reduced embeddings.  
 **Topic Representation:** The algorithm generates topics based on the clustered documents and their embeddings.  
+
+## Results
+![image](https://github.com/user-attachments/assets/eb89c034-4291-4814-8ed2-129757e1e195)
+
+![image](https://github.com/user-attachments/assets/aab77b6e-6bbe-4e0e-9493-fadde5ad2d5e)
 
 
 
